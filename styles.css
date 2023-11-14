@@ -7,8 +7,15 @@
   --accent-color: #fdc435;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-color: #f9faff;
+  font-size: 24px;
 }
 
 h1 {
@@ -45,19 +52,20 @@ a:visited {
 }
 
 ul {
-  padding: 0;
+  display: flex;
+  margin-top: 12px;
+  gap: 8%;
 }
 
 li {
   list-style: none;
-  margin-left: 35px;
 }
 
 .navbar {
   font-family: var(--nav-font);
-  width: 100vw;
+  padding: 2% 10% 0 10%;
   font-size: 18px;
-  padding: 20px 120px;
+  width: 100vw;
   text-underline-offset: 0.7rem;
 }
 
@@ -66,14 +74,15 @@ li {
 }
 
 .hero {
+  box-sizing: border-box;
   width: 100vw;
-  padding-left: 120px;
+  padding: 0 10% 0 10%;
+  margin: 0;
 }
 
 .text-ctr {
   height: 90vh;
-  width: 100%;
-  padding: 79px 0 120px 0;
+  padding: 30px 0 120px 0;
 }
 
 .regular-btn {
@@ -88,6 +97,7 @@ li {
 .hero-bg {
   position: absolute;
   height: 100vh;
+  /* width: 54.5%; */
   right: 0;
   bottom: 0;
   top: 0;
@@ -97,6 +107,7 @@ li {
   position: absolute;
   right: 0;
   height: 100vh;
+  /* width: 33%; */
   top: 0;
   z-index: -1;
 }
@@ -105,10 +116,6 @@ li {
   ul {
     font-size: 1rem;
   }
-
-  .navbar {
-    flex-wrap: nowrap;
-  }
 }
 
 @media (max-width: 992px) {
@@ -116,16 +123,27 @@ li {
     color: #f9faff;
   }
 
-  .img-ctr {
+  /* .img-ctr {
     display: none;
-  }
+  } */
 
   .hero {
     background-color: var(--accent-color);
   }
+  h2 {
+    color: var(--body-color);
+  }
 
   .accent-btn {
-    background-color: #f9faff;
-    border: solid 1px #f9faff;
+    color: #f9faff;
+    background-color: var(--main-color);
+    border: solid 1px var(--main-color);
   }
+
+  .accent-btn:visited {
+    color: #f9faff;
+  }
+}
+
+@media (max-width: 1284px) {
 }
