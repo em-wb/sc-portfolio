@@ -111,9 +111,9 @@ small > a {
   height: 100vh;
 }
 
-.footer > img {
-  width: 48px;
-  height: 48px;
+a > img {
+  width: 2rem;
+  height: 2rem;
 }
 
 .navbar {
