@@ -107,18 +107,17 @@ small > a {
   color: var(--body-color);
 }
 
+.container-fluid {
+  height: 100vh;
+}
+
 .footer > img {
   width: 48px;
   height: 48px;
 }
 
-.row {
-  width: 100%;
-}
-
 .navbar {
   font-family: var(--nav-font);
-  width: 100vw;
   font-size: 0.75rem;
 }
 
@@ -134,7 +133,7 @@ small > a {
 
 .hero {
   box-sizing: border-box;
-  width: 100vw;
+  /* width: 100vw; */
   padding: 0 10%;
   margin: 0;
 }
@@ -210,10 +209,10 @@ small > a {
 }
 
 .about-ctr {
-  width: 100vw;
+  /* width: 100vw; */
 }
 
-.about-txt {
+.about-contact-txt {
   padding: 0 10%;
 }
 
