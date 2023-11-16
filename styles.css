@@ -103,7 +103,7 @@ h3::after {
 
 small,
 small > a {
-  font-size: 0.5rem;
+  font-size: 0.66rem;
   color: var(--body-color);
 }
 
@@ -114,6 +114,7 @@ small > a {
 a > img {
   width: 2rem;
   height: 2rem;
+  padding: 0;
 }
 
 .navbar {
