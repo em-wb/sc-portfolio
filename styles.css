@@ -51,6 +51,10 @@ p {
   line-height: 150%;
 }
 
+a {
+  text-decoration: none;
+}
+
 div > a {
   color: var(--main-color);
   font-family: var(--main-font);
@@ -116,7 +120,6 @@ small > a {
   font-family: var(--nav-font);
   width: 100vw;
   font-size: 0.75rem;
-  text-underline-offset: 0.3rem;
 }
 
 .right-nav {
@@ -126,6 +129,7 @@ small > a {
 
 .current-page {
   text-decoration: underline;
+  text-underline-offset: 0.3rem;
 }
 
 .hero {
