@@ -75,7 +75,7 @@ a:visited {
 
 ul {
   display: flex;
-  margin: 20px 100px 20px 50px;
+  margin: 20px 0;
 }
 
 li {
@@ -119,10 +119,11 @@ small > a {
 .navbar {
   font-family: var(--nav-font);
   font-size: 0.75rem;
+  padding: 0 10%;
 }
 
 .right-nav {
-  gap: 8%;
+  gap: 48px;
   padding-left: 0;
 }
 
