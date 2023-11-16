@@ -302,4 +302,8 @@ a > img {
     bottom: 0;
     z-index: -1;
   }
+
+  .right-nav {
+    gap: 24px;
+  }
 }
