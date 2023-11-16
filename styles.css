@@ -209,6 +209,10 @@ small > a {
   border-radius: 0 0 0.5rem 0.5rem;
 }
 
+.about-ctr {
+  width: 100vw;
+}
+
 .about-txt {
   padding: 0 10%;
 }
