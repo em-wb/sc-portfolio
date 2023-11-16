@@ -221,6 +221,21 @@ a > img {
   padding: 0 10%;
 }
 
+.contact-footer {
+  position: absolute;
+  width: 100vw;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+
+.contact-footer-text {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
 @media screen and (max-width: 768px) {
   ul {
     margin: 20px 50px 20px 0;
