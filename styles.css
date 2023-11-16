@@ -218,12 +218,16 @@ a > img {
 }
 
 .page-ctr {
-  height: 619px;
   width: 100%;
 }
 
 .about-contact-txt {
   padding: 0 10%;
+}
+
+.waving-img {
+  height: 400px;
+  width: auto;
 }
 
 .contact-footer {
@@ -235,7 +239,7 @@ a > img {
   z-index: -1;
 }
 
-.contact-footer-text {
+.footer-text-icon {
   position: absolute;
   bottom: 0;
   width: 100%;
