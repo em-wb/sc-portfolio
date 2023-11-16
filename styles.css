@@ -217,6 +217,11 @@ a > img {
   /* width: 100vw; */
 }
 
+.page-ctr {
+  height: 619px;
+  width: 100%;
+}
+
 .about-contact-txt {
   padding: 0 10%;
 }
