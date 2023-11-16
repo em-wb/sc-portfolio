@@ -55,7 +55,7 @@ a {
   text-decoration: none;
 }
 
-div > a {
+.hero-btns > a {
   color: var(--main-color);
   font-family: var(--main-font);
   font-size: 1rem;
