@@ -55,11 +55,17 @@ p {
 a {
   text-decoration: none;
   color: var(--main-color);
+  transition: all ease-in-out 150ms;
 }
 
 a:visited {
   color: var(--main-color);
   text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+  opacity: 70%;
 }
 
 ul {
