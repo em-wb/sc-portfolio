@@ -2,7 +2,7 @@
 
 A Bootstrap project from SheCodes.
 
-View the project live <a href="https://main--glittery-jelly-27dbae.netlify.app/">here</a> 👀
+View the project live <a href="https://main--glittery-jelly-27dbae.netlify.app/" target="_blank">here</a> 👀
 
 ### Skills learned
 
@@ -11,9 +11,9 @@ View the project live <a href="https://main--glittery-jelly-27dbae.netlify.app/"
 
 ### Credits
 
-- Design adapted from template from <a href="https://www.figma.com/community/file/946944225031473055">Figma Community</a>
+- Design adapted from template from <a href="https://www.figma.com/community/file/946944225031473055" target="_blank">Figma Community</a>
 
-- Headshot image by pikisuperstar <a href="https://www.freepik.com/free-vector/hand-drawn-different-profile-icons-pack_17863156.htm#query=face&position=5&from_view=search&track=sph">on Freepik</a>
+- Headshot image by pikisuperstar <a href="https://www.freepik.com/free-vector/hand-drawn-different-profile-icons-pack_17863156.htm#query=face&position=5&from_view=search&track=sph" target="_blank">on Freepik</a>
 
 - Waving hand by Adrien Coquet <a href="https://thenounproject.com/browse/icons/term/waving/" target="_blank" title="waving Icons"> on Noun Project</a> (CC BY 3.0)
 
