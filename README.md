@@ -9,7 +9,7 @@ View the project live <a href="https://main--glittery-jelly-27dbae.netlify.app/"
 - Building responsive sites using Bootstrap
 - Implementing a design from Figma
 
-### Credits
+## Credits
 
 - Design adapted from template from <a href="https://www.figma.com/community/file/946944225031473055">Figma Community</a>
 
@@ -17,6 +17,6 @@ View the project live <a href="https://main--glittery-jelly-27dbae.netlify.app/"
 
 - Waving hand by Adrien Coquet <a href="https://thenounproject.com/browse/icons/term/waving/" target="_blank" title="waving Icons"> on Noun Project</a> (CC BY 3.0)
 
-### Figma design
+## Figma design
 
 <img src="/images/figmadesign.png">
